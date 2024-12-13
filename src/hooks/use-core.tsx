@@ -1,0 +1,1 @@
+// Desc: Core smart contract hooks
